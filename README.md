@@ -1,7 +1,11 @@
-# Viking-Showdown
-An Assasin’s Creed: Valhalla top-down view alternative with an intriguing story and enjoyable gameplay.
+# Fight as a viking from the 9th century
 
-## Screenshot
-![image](https://github.com/Flashrane/Viking-Showdown/assets/56399946/d00a1e17-0ef2-4ccb-bf1b-b80ee389d28a)
-![Screenshot (153)](https://github.com/csongorszasz/Viking-Showdown/assets/75858356/45e871d6-04dc-4526-aae4-531913a791bc)
-![Screenshot (159)](https://github.com/csongorszasz/Viking-Showdown/assets/75858356/dab45ab8-b189-48c2-af99-644c55d4f7e6)
+### Demo
+
+https://github.com/user-attachments/assets/3519e15e-564b-45f8-b2a5-0e1eca7df85c
+
+### Try it for yourself
+Download and run: https://github.com/csongorszasz/Viking-Showdown/releases/download/v1.0.0/VikingShowdown.zip
+
+### Inspiration
+[Assasin’s Creed: Valhalla](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed:_Valhalla)
